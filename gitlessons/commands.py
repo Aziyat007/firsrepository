@@ -23,12 +23,21 @@ git remote add <название подключения><ссылка на ре�
  
  git push <origin> <название ветки (main)> 
 
-git push origin main 
+git push origin main (master)
 
-. 
+/////////////////////
+
+
+1 git add . 
+git commit m'comment'
+git push origin main(master)
 
 
 
-some text
-some text 2
-some text 2
+
+
+
+
+
+
+
